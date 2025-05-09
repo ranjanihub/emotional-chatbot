@@ -22,7 +22,7 @@ This project is an interactive AI chatbot that detects a user's emotion via webc
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/ranjanihub/emotional-chatbot.git
-   cd emotion-chatbot
+   cd emotional-chatbot
 
 
 2. **Create a Virtual Environment (optional but recommended)**
